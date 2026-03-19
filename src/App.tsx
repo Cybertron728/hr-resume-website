@@ -297,7 +297,7 @@ export default function App() {
             >
               <div className="text-indigo-200 text-sm font-medium uppercase tracking-wider mb-4">HR Tech Stack</div>
               <div className="flex flex-wrap gap-2">
-                {['SAGE', 'IIKO', 'SERVE ME', 'BAYZAT', 'ZOHO'].map(tech => (
+                {['SAGE', 'Zoho', 'Bayzat', 'IIKO', 'ServeMe'].map(tech => (
                   <span key={tech} className="px-4 py-2 bg-white/10 rounded-full text-sm font-medium backdrop-blur-sm">{tech}</span>
                 ))}
               </div>

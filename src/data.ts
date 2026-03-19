@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Keya Pithva",
-  title: "HR Manager",
+  title: "Group HR Manager",
   email: "keyapithva@gmail.com",
   phone: "0528504965",
   location: "Dubai, UAE",
@@ -12,92 +12,101 @@ export const personalInfo = {
 };
 
 export const profile = [
-  "Seasoned Human Resource Manager with 10+ years of experience in recruitment, payroll management, employee relations, and compliance.",
-  "Proven ability to streamline HR processes, implement effective training programs, and enhance organisational performance while maintaining compliance with UAE labor laws.",
-  "Expertise in managing HR operations across multiple branches and diverse teams. Adept at leveraging data-driven strategies and fostering a culture of inclusivity and engagement."
+  "Seasoned Group HR Head with 10+ years of experience in talent acquisition, payroll management, employee relations, and UAE labor law compliance.",
+  "Proven track record of managing HR operations for 600+ employees across multiple branches, improving employee retention, and optimizing HR processes through data-driven strategies.",
+  "Skilled in workforce planning, compensation structuring, and organizational development."
 ];
 
 export const experience = [
   {
+    company: "Bakerist",
+    location: "Dubai, UAE",
+    role: "HEAD OF PEOPLE & HR OPERATIONS",
+    period: "Feb 2025 – Present",
+    details: [
+      "Leading HR end-to-end operations for 8 branches: Bakerist – Dubai Hills Mall, Bistro by Bakerist – Golden Mile, Bakerist – Ras Al Khaimah, Bakerist – Bluewaters, Aloe – Dubai Marina, Bakerist Cloud Kitchen – Business Bay (Pre-opening), Bakerist – Yas Island Abu Dhabi (Pre-opening), Bakerist Production House – DIP (Pre-opening).",
+      "Managed end-to-end HR operations for 300+ employees across 8 units, including recruitment, onboarding, documentation, performance management, offboarding, and exit interviews, reporting directly to the CEO.",
+      "Oversaw visa processing (visit and employment visas), health insurance, and compliance programs including PIC, BFST, and OHC in line with UAE regulations.",
+      "Managed full-cycle payroll across WPS, non-WPS, and bank transfers using C3, Lulu Exchange, and Al Ansari systems, ensuring accuracy and compliance.",
+      "Improved employee retention by 10% through salary rationalisation aligned with market benchmarks.",
+      "Spearheaded wellness and retention initiatives, increasing employee satisfaction by 25% and reducing turnover by 20%.",
+      "Reduced payroll processing time by 30% through process optimization."
+    ]
+  },
+  {
     company: "Tigrus Restaurant Holding",
     location: "Dubai, UAE",
-    role: "HR MANAGER",
-    period: "OCT 2022 – Present (3 Years)",
+    role: "Group HR Manager",
+    period: "Oct 2022 – Present",
     details: [
-      "Managing HR operations for 8 branches (Osteria Mario Alpha, Shvili Alpha, Shvili Beta, Shvili Gamma, Tigurs Middle East, Northern Tiger, Oasis Hospitality Holding, Shvili Saudi Arabia).",
-      "Including Recruitment, Onboarding, and Performance tracking for over 600 employees.",
-      "Responsible for organising: BFST, Fire safety/ Fire alarm, PIC, OHC, Health Insurance, Visit Visa, Employment visa, Tickets per idioms & Transportation.",
-      "Experience of hiring and onboarding the workforce for pre-opening restaurant projects, ensuring staffing requirements are met ahead of schedule.",
-      "Payrolls: Preparation - processing - Releasing using C3 Software, LULU Salary Transfer, and Al Ansari Exchange systems, ensuring 100% accuracy and timeliness.",
-      "Administer employee compensation plans, including bonuses, health insurance, and final settlements.",
-      "Oversee employee housing and transportation, ensuring cost-effective and compliant solutions.",
-      "Conduct market salary analysis and recommend competitive compensation structures.",
-      "Spearheaded the implementation of a wellness program, improving employee satisfaction by 25%.",
-      "Developed a succession planning framework, ensuring leadership continuity and reducing critical role vacancies by 20%.",
-      "Handle Emaar Mall work permits and other venue documentation requirements."
+      "Managing HR operations for 7 branches (all pre openings): Osteria Mario Alpha Restaurant – Dubai Hills Mall, Shvili Alpha Restaurant – Nakheel Mall, Shvili Beta Restaurant – Festival City Mall, Shvili Gamma Restaurant – Abu Dhabi, Osteria Mario – Marina Mall, Northern Tiger – Dubai, Oasis Hospitality Holding – Dubai Media City.",
+      "Reported directly to the CEO and CFO, supporting strategic HR and operational decisions.",
+      "Managed end-to-end HR operations including onboarding, documentation, performance management, and offboarding processes.",
+      "Oversaw visa processing, health insurance, and compliance programs (PIC, BFST, OHC) in line with UAE regulations.",
+      "Managed payroll inputs, attendance, leave, overtime, and salary records ensuring accuracy and compliance.",
+      "Conducted market salary benchmarking and implemented compensation structures, improving retention.",
+      "Handled employee relations and internal investigations including conflict resolution and policy enforcement.",
+      "Prepared HR analytics and reports (headcount, turnover, overtime) to support management decisions.",
+      "Supported performance appraisal processes and workforce planning initiatives.",
+      "Organized training programs and employee engagement initiatives to improve satisfaction and retention."
     ]
   },
   {
     company: "Fortune General Trading Company",
     location: "Dubai, UAE",
-    role: "HR MANAGER",
-    period: "APR 2019 – OCT 2022 (3 Years)",
+    role: "HR Manager",
+    period: "Apr 2019 – Oct 2022",
     details: [
-      "Led recruitment and hiring processes while ensuring alignment with UAE labor laws.",
-      "Managed payroll administration and benefits packages, including end-of-service benefits.",
-      "Developed and updated onboarding and exit processes in compliance with UAE regulations.",
-      "Implemented employee engagement and wellness programs to boost morale.",
-      "Designed leadership training sessions for managers, enhancing team efficiency by 15%.",
-      "Introduced an employee recognition program, increasing overall productivity by 12%."
+      "Led hiring and workforce planning aligned with UAE labor law compliance.",
+      "Managed payroll, compensation, and end-of-service benefits.",
+      "Improved team efficiency by 15% through leadership training programs.",
+      "Increased productivity by 12% via employee recognition initiatives.",
+      "Strengthened onboarding and exit processes for compliance and consistency."
     ]
   },
   {
     company: "London MSB Online Diploma School",
     location: "Dubai, UAE",
-    role: "HR EXECUTIVE",
-    period: "MARCH 2016 – MARCH 2019 (4 Years)",
+    role: "HR Manager",
+    period: "Mar 2016 – Mar 2019",
     details: [
-      "Facilitated recruitment and onboarding processes, ensuring timely placements.",
-      "Conducted compliance checks and managed employee training programs.",
-      "Streamlined clerical duties to maintain smooth HR operations."
+      "Managed recruitment and onboarding ensuring timely hiring.",
+      "Coordinated training programs and compliance processes.",
+      "Streamlined HR operations to improve administrative efficiency."
     ]
   },
   {
     company: "Eximove International Pvt. Ltd.",
     location: "Gujarat, India",
     role: "Talent Acquisition Specialist",
-    period: "JAN 2014 – FEB 2016 (2 Years)",
+    period: "Jan 2014 – Feb 2016",
     details: [
-      "Recruited, onboarded, and trained over 100 new hires in collaboration with department managers.",
-      "Monitored adherence to company policies and regulatory requirements.",
-      "Conducted individual and group training sessions to enhance employee skills."
+      "Recruited and onboarded 100+ employees across departments.",
+      "Conducted training sessions to improve employee performance.",
+      "Ensured compliance with internal policies and regulatory requirements."
     ]
   }
 ];
 
 export const achievements = [
-  "Designed and implemented a 360-degree recruitment plan for the pre-opening of 5 restaurant branches, ensuring a 100% hiring target was met within deadlines.",
-  "Successfully conducted salary rationalisations, leading to a 10% improvement in employee retention and alignment with market trends.",
-  "Spearheaded wellness and retention programs, enhancing employee satisfaction by 25% and reducing turnover rates by 20%.",
-  "Reduced payroll processing time by 30% through automation, saving approximately 10 hours per payroll cycle.",
-  "Enhanced employee training compliance rate to 95% by streamlining learning management systems and introducing incentives for timely completion.",
-  "Developed a performance appraisal system, improving employee productivity by 15%.",
-  "Launched diversity initiatives, increasing female representation in leadership roles by 10%."
+  "Reduced payroll processing time by 30% through automation.",
+  "Improved employee retention by 20% via compensation restructuring.",
+  "Increased employee satisfaction by 25% through wellness initiatives.",
+  "Achieved 100% hiring targets for 5 pre-opening business units.",
+  "Improved training compliance rate to 95%."
 ];
 
 export const competencies = [
-  "360° Recruitment & Onboarding",
-  "Payroll Processing (WPS, Non-WPS, Cash Payments)",
-  "Compliance with UAE Labor Laws",
-  "Compensation & Benefits Administration",
-  "Employee Engagement & Training",
-  "HR Software knowledge: SAGE, IIKO, SERVE ME, BAYZAT, ZOHO",
-  "Strategic HR Planning & Analytics",
-  "Conflict Resolution & Mediation",
-  "Data-Driven Decision Making",
-  "Workforce Planning & Succession Management",
-  "Organizational Development",
-  "HR Policy Development & Implementation"
+  "Talent Acquisition",
+  "HR Operations",
+  "Payroll Management",
+  "UAE Labor Law",
+  "Compliance",
+  "Employee Engagement",
+  "Performance Management",
+  "Workforce Planning",
+  "Compensation & Benefits",
+  "HR Analytics"
 ];
 
 export const education = [
