@@ -161,7 +161,7 @@ export default function App() {
               className="md:col-span-1 lg:col-span-1 md:row-span-2 rounded-[2rem] overflow-hidden relative aspect-[4/5] md:aspect-[9/16] group"
             >
               <img 
-                src="/profile.jpg" 
+                src="/profile.jpg?v=2" 
                 alt={personalInfo.name} 
                 className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"
